@@ -1,0 +1,15 @@
+C:\C#\LoopsBeginners\bin\Debug\net6.0\LoopsBeginners.exe
+C:\C#\LoopsBeginners\bin\Debug\net6.0\LoopsBeginners.deps.json
+C:\C#\LoopsBeginners\bin\Debug\net6.0\LoopsBeginners.runtimeconfig.json
+C:\C#\LoopsBeginners\bin\Debug\net6.0\LoopsBeginners.dll
+C:\C#\LoopsBeginners\bin\Debug\net6.0\LoopsBeginners.pdb
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.csproj.AssemblyReference.cache
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.AssemblyInfoInputs.cache
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.AssemblyInfo.cs
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.csproj.CoreCompileInputs.cache
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.dll
+C:\C#\LoopsBeginners\obj\Debug\net6.0\refint\LoopsBeginners.dll
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.pdb
+C:\C#\LoopsBeginners\obj\Debug\net6.0\LoopsBeginners.genruntimeconfig.cache
+C:\C#\LoopsBeginners\obj\Debug\net6.0\ref\LoopsBeginners.dll
